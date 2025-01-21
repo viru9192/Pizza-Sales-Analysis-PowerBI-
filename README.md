@@ -19,6 +19,9 @@ The dashboard includes several interactive visuals:
 ## Data Source
 The dashboard utilizes sales data from 2015, detailing various aspects like the number of pizzas sold, the revenue generated, and the quantity of pizzas sold per category. The data is anonymized and formatted for illustrative purposes.
 
+## Power BI Dashboard
+View the interactive dashboard here: (https://app.powerbi.com/reportEmbed?reportId=d7ccb841-5aa7-4c5b-915d-257c42f20327&autoAuth=true&ctid=a8d3e12a-a4f9-47c3-b7bd-0f18f50c4713)
+
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit pull requests with any enhancements. You can also open issues for any bugs found or features suggested.
 
